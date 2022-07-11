@@ -1,6 +1,7 @@
+::Modified from almost-a-technocrat.blogspot.com/2018/04/auto-create-folder-based-on-filename.html and other forums.
 ::Create list.txt of all files in directory
 ::Truncate filenames from delimiter _ in list.txt
-::create directory for each filename root
+::Create directory for each filename root
 ::Move files $f*.tif, $f* to $f
 
 @echo off
