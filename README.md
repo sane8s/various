@@ -10,7 +10,7 @@ PTHbatch.bat Takes a flat directory of TIF images with all files following a con
     - Delims: Default underscore (`_`) which means processing filename string to the left of the specified delimiter.
     - Output files can be customized as well.
 1. Double-click PTHbatch.bat file. The script will run, creating directories and moving files into each directory based on filename. THe output file, batchlist.txt, lists all the subdirectories and files in the main directory.
-1. Oops, I didn't mean to batch process the files yet! Double-click PTHreverse.bat, and all the files will be moved out of the subdirectories into the main driectory again. You can delete the empty subdirectories.
+1. Oops, I didn't mean to batch process the files yet! Double-click PTHreverse.bat, and all the files will be moved out of the subdirectories into the main driectory again. You can delete the empty subdirectories and batchlist.txt file.
 1. When you done processing, delete bat files from main directory.
 
 ## More scripts...
