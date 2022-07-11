@@ -1,4 +1,4 @@
-::Create list2.txt of all files in subdirectories
+::Modified from internet
 ::Move files $f*.tif, $f* to current directory of bat file
 
 @echo off  
