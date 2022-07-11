@@ -1,6 +1,6 @@
 Various scripts for processing images and other data.
 ## PTH Batch & PTH Reverse
-PTHbatch.bat Takes a flat directory of TIF images with all files following a consistent naming convention, and moves front files (_01) and back files (_02) into on directory based on the the base file name that precedes the underscore. The script outputs a batchlist.txt file manifest.
+PTHbatch.bat takes a flat directory of TIF images with all files following a consistent naming convention, and moves front files (_01) and back files (_02) into on directory based on the the base file name that precedes the underscore. The script outputs a batchlist.txt file manifest. PTHreverse.bat reverses the operation and moves files out of subdirectories.
 ### How to use
 1. Copy Preservation Files into a new directory for processing.
 1. Copy PTHbatch.bat and PTHreverse.bat into the directory that you want to process.
