@@ -6,7 +6,7 @@
 
 @echo off
 for %%i in (*.tif) do (
- if not "%%~ni" == "organize" (
+ if not %%~ni == "organize" (
   echo %%~ni >> list.txt  
  )
 )
